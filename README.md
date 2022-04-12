@@ -1,4 +1,4 @@
-# Resa with Float System for Older Browser.
+# Vanilla JavaScript Joke Teller
 
 ### Languages and Tools:
 
